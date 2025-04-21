@@ -1,6 +1,6 @@
 # Aplicaciones_Calculo
 
-**Aplicaciones_Calculo** is a tool designed for advanced calculations, developed in **Visual Basic** and leveraging various **NuGet libraries**.
+**Aplicaciones_Calculo** is a tool designed for advanced calculations, developed in **Visual Basic .NET** and leveraging various **NuGet libraries**.
 
 ## Features
 
